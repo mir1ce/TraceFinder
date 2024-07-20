@@ -20,9 +20,8 @@
 
 	使用方式TraceFinder.exe -check
 
-​![image](assets/image-20240720214515-cypfuf3.png)​
-
-​![image](assets/image-20240720214556-7rt15ym.png)​
+​![image](https://github.com/user-attachments/assets/02d2ea22-2be1-4821-8482-992f1f8bb6da)
+![image](https://github.com/user-attachments/assets/8d0d3046-33a9-4e0f-abdd-de1b14b49125)
 
 ### 文件分割
 
@@ -32,9 +31,8 @@
 
 	ps：split表示为切割指令
 
-​![image](assets/image-20240720215046-tphn5xi.png)​
-
-​![image](assets/image-20240720215439-9ms78dc.png)​
+![image](https://github.com/user-attachments/assets/d56dd746-b42a-4ca9-b9ec-f79349ffb459)
+​![image](https://github.com/user-attachments/assets/37d827fc-cb5e-4647-a6bd-04be1a47c61e)
 
 ### 字符串查找
 
@@ -45,8 +43,7 @@
 	使用方式：TraceFinder.exe -file 指定文件 -target 目标字符串 -view
 
 	ps：-view执行，主要是在控制台显示
-
-​![image](assets/image-20240720220209-ghwxpgm.png)​
+![image](https://github.com/user-attachments/assets/36308445-5faf-4d9d-957a-e82822b0eb3f)​
 
 ## 后续开发计划
 
